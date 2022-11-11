@@ -28,12 +28,13 @@ authors:
   - Lee.
   - and Choi
   - J. K.
+doi: https://doi.org/10.1158/0008-5472.CAN-21-2023
 publication: Cancer Research
 publication_short: Cancer Res.
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2022-11-11T22:10:56.143Z
